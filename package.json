@@ -13,6 +13,6 @@
     "event-source-polyfill": "1.0.26",
     "faker": "5.5.3",
     "@mend-eicar/hello-world": "1.0.0",
-    "moment": "1.0.1"
+    "moment": "2.29.2"
   }
 }
